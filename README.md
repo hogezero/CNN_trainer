@@ -5,7 +5,7 @@ cnn_test.py はテスト用プログラムです。
 net_cnn.py はネットワークモデルです。
 
 ### 画像ファイル構成 ###
-- images/  
+- images  
   + test  
     + Motorbikes  
     + airplanes  
