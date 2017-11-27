@@ -1,5 +1,5 @@
 # CNN_trainer
-chainerを利用したCNNのサンプルです。  
+chainerのtranerを利用したCNNのサンプルです。  
 cnn_trainer.py は学習用プログラムです。  
 cnn_test.py はテスト用プログラムです。  
 net_cnn.py はネットワークモデルです。
